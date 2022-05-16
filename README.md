@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAY01001
 - 👀 I’m interested in C/C++ and HTML
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on this network
 - 📫 How to reach me ...
 
 <!---
